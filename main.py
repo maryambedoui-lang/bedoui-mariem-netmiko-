@@ -32,3 +32,11 @@ def dire_bonjour():
 if __name__ == "__main__":
     dire_bonjour()
     acces_netmiko()
+def dire_salut():
+    print("Salut, Git!")
+
+# Exemple d'utilisation
+if __name__ == "__main__":
+    dire_bonjour()
+    acces_netmiko()
+    dire_salut()
